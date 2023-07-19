@@ -1,0 +1,312 @@
+region,category_id,category
+RU,1,Film & Animation
+RU,2,Autos & Vehicles
+RU,10,Music
+RU,15,Pets & Animals
+RU,17,Sports
+RU,18,Short Movies
+RU,19,Travel & Events
+RU,20,Gaming
+RU,21,Videoblogging
+RU,22,People & Blogs
+RU,23,Comedy
+RU,24,Entertainment
+RU,25,News & Politics
+RU,26,Howto & Style
+RU,27,Education
+RU,28,Science & Technology
+RU,30,Movies
+RU,31,Anime/Animation
+RU,32,Action/Adventure
+RU,33,Classics
+RU,34,Comedy
+RU,35,Documentary
+RU,36,Drama
+RU,37,Family
+RU,38,Foreign
+RU,39,Horror
+RU,40,Sci-Fi/Fantasy
+RU,41,Thriller
+RU,42,Shorts
+RU,43,Shows
+RU,44,Trailers
+CA,1,Film & Animation
+CA,2,Autos & Vehicles
+CA,10,Music
+CA,15,Pets & Animals
+CA,17,Sports
+CA,18,Short Movies
+CA,19,Travel & Events
+CA,20,Gaming
+CA,21,Videoblogging
+CA,22,People & Blogs
+CA,23,Comedy
+CA,24,Entertainment
+CA,25,News & Politics
+CA,26,Howto & Style
+CA,27,Education
+CA,28,Science & Technology
+CA,30,Movies
+CA,31,Anime/Animation
+CA,32,Action/Adventure
+CA,33,Classics
+CA,34,Comedy
+CA,35,Documentary
+CA,36,Drama
+CA,37,Family
+CA,38,Foreign
+CA,39,Horror
+CA,40,Sci-Fi/Fantasy
+CA,41,Thriller
+CA,42,Shorts
+CA,43,Shows
+CA,44,Trailers
+MX,1,Film & Animation
+MX,2,Autos & Vehicles
+MX,10,Music
+MX,15,Pets & Animals
+MX,17,Sports
+MX,18,Short Movies
+MX,19,Travel & Events
+MX,20,Gaming
+MX,21,Videoblogging
+MX,22,People & Blogs
+MX,23,Comedy
+MX,24,Entertainment
+MX,25,News & Politics
+MX,26,Howto & Style
+MX,27,Education
+MX,28,Science & Technology
+MX,30,Movies
+MX,31,Anime/Animation
+MX,32,Action/Adventure
+MX,33,Classics
+MX,34,Comedy
+MX,35,Documentary
+MX,36,Drama
+MX,37,Family
+MX,38,Foreign
+MX,39,Horror
+MX,40,Sci-Fi/Fantasy
+MX,41,Thriller
+MX,42,Shorts
+MX,43,Shows
+MX,44,Trailers
+IN,1,Film & Animation
+IN,2,Autos & Vehicles
+IN,10,Music
+IN,15,Pets & Animals
+IN,17,Sports
+IN,18,Short Movies
+IN,19,Travel & Events
+IN,20,Gaming
+IN,21,Videoblogging
+IN,22,People & Blogs
+IN,23,Comedy
+IN,24,Entertainment
+IN,25,News & Politics
+IN,26,Howto & Style
+IN,27,Education
+IN,28,Science & Technology
+IN,30,Movies
+IN,31,Anime/Animation
+IN,32,Action/Adventure
+IN,33,Classics
+IN,34,Comedy
+IN,35,Documentary
+IN,36,Drama
+IN,37,Family
+IN,38,Foreign
+IN,39,Horror
+IN,40,Sci-Fi/Fantasy
+IN,41,Thriller
+IN,42,Shorts
+IN,43,Shows
+IN,44,Trailers
+GB,1,Film & Animation
+GB,2,Autos & Vehicles
+GB,10,Music
+GB,15,Pets & Animals
+GB,17,Sports
+GB,18,Short Movies
+GB,19,Travel & Events
+GB,20,Gaming
+GB,21,Videoblogging
+GB,22,People & Blogs
+GB,23,Comedy
+GB,24,Entertainment
+GB,25,News & Politics
+GB,26,Howto & Style
+GB,27,Education
+GB,28,Science & Technology
+GB,30,Movies
+GB,31,Anime/Animation
+GB,32,Action/Adventure
+GB,33,Classics
+GB,34,Comedy
+GB,35,Documentary
+GB,36,Drama
+GB,37,Family
+GB,38,Foreign
+GB,39,Horror
+GB,40,Sci-Fi/Fantasy
+GB,41,Thriller
+GB,42,Shorts
+GB,43,Shows
+GB,44,Trailers
+KR,1,Film & Animation
+KR,2,Autos & Vehicles
+KR,10,Music
+KR,15,Pets & Animals
+KR,17,Sports
+KR,18,Short Movies
+KR,19,Travel & Events
+KR,20,Gaming
+KR,21,Videoblogging
+KR,22,People & Blogs
+KR,23,Comedy
+KR,24,Entertainment
+KR,25,News & Politics
+KR,26,Howto & Style
+KR,27,Education
+KR,28,Science & Technology
+KR,30,Movies
+KR,31,Anime/Animation
+KR,32,Action/Adventure
+KR,33,Classics
+KR,34,Comedy
+KR,35,Documentary
+KR,36,Drama
+KR,37,Family
+KR,38,Foreign
+KR,39,Horror
+KR,40,Sci-Fi/Fantasy
+KR,41,Thriller
+KR,42,Shorts
+KR,43,Shows
+KR,44,Trailers
+FR,1,Film & Animation
+FR,2,Autos & Vehicles
+FR,10,Music
+FR,15,Pets & Animals
+FR,17,Sports
+FR,18,Short Movies
+FR,19,Travel & Events
+FR,20,Gaming
+FR,21,Videoblogging
+FR,22,People & Blogs
+FR,23,Comedy
+FR,24,Entertainment
+FR,25,News & Politics
+FR,26,Howto & Style
+FR,27,Education
+FR,28,Science & Technology
+FR,30,Movies
+FR,31,Anime/Animation
+FR,32,Action/Adventure
+FR,33,Classics
+FR,34,Comedy
+FR,35,Documentary
+FR,36,Drama
+FR,37,Family
+FR,38,Foreign
+FR,39,Horror
+FR,40,Sci-Fi/Fantasy
+FR,41,Thriller
+FR,42,Shorts
+FR,43,Shows
+FR,44,Trailers
+DE,1,Film & Animation
+DE,2,Autos & Vehicles
+DE,10,Music
+DE,15,Pets & Animals
+DE,17,Sports
+DE,18,Short Movies
+DE,19,Travel & Events
+DE,20,Gaming
+DE,21,Videoblogging
+DE,22,People & Blogs
+DE,23,Comedy
+DE,24,Entertainment
+DE,25,News & Politics
+DE,26,Howto & Style
+DE,27,Education
+DE,28,Science & Technology
+DE,30,Movies
+DE,31,Anime/Animation
+DE,32,Action/Adventure
+DE,33,Classics
+DE,34,Comedy
+DE,35,Documentary
+DE,36,Drama
+DE,37,Family
+DE,38,Foreign
+DE,39,Horror
+DE,40,Sci-Fi/Fantasy
+DE,41,Thriller
+DE,42,Shorts
+DE,43,Shows
+DE,44,Trailers
+US,1,Film & Animation
+US,2,Autos & Vehicles
+US,10,Music
+US,15,Pets & Animals
+US,17,Sports
+US,18,Short Movies
+US,19,Travel & Events
+US,20,Gaming
+US,21,Videoblogging
+US,22,People & Blogs
+US,23,Comedy
+US,24,Entertainment
+US,25,News & Politics
+US,26,Howto & Style
+US,27,Education
+US,28,Science & Technology
+US,29,Nonprofits & Activism
+US,30,Movies
+US,31,Anime/Animation
+US,32,Action/Adventure
+US,33,Classics
+US,34,Comedy
+US,35,Documentary
+US,36,Drama
+US,37,Family
+US,38,Foreign
+US,39,Horror
+US,40,Sci-Fi/Fantasy
+US,41,Thriller
+US,42,Shorts
+US,43,Shows
+US,44,Trailers
+JP,1,Film & Animation
+JP,2,Autos & Vehicles
+JP,10,Music
+JP,15,Pets & Animals
+JP,17,Sports
+JP,18,Short Movies
+JP,19,Travel & Events
+JP,20,Gaming
+JP,21,Videoblogging
+JP,22,People & Blogs
+JP,23,Comedy
+JP,24,Entertainment
+JP,25,News & Politics
+JP,26,Howto & Style
+JP,27,Education
+JP,28,Science & Technology
+JP,30,Movies
+JP,31,Anime/Animation
+JP,32,Action/Adventure
+JP,33,Classics
+JP,34,Comedy
+JP,35,Documentary
+JP,36,Drama
+JP,37,Family
+JP,38,Foreign
+JP,39,Horror
+JP,40,Sci-Fi/Fantasy
+JP,41,Thriller
+JP,42,Shorts
+JP,43,Shows
+JP,44,Trailers
